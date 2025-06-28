@@ -213,6 +213,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Framer Motion** for smooth animations
 - **React** ecosystem for the foundation
 
+
+## 🚀 Live Demo
+
+👉 [**Click here to explore Subify live**](https://funny-zuccutto-f928b0.netlify.app)
+
+
+
 ## 🖼️ Screenshots
 
 ### 🔐 Authentication Screens
