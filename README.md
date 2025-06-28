@@ -279,7 +279,7 @@ VITE_APP_NAME=Subify
 <img src="./screenshots/39.png" width="100%" />
 <img src="./screenshots/40.png" width="100%" />
 <img src="./screenshots/41.png" width="100%" />
-<img src="./screenshots/42.png" width="100%" />
+
 
 
 Built with ❤️ by the Vigneswar Avula
